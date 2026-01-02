@@ -50,3 +50,7 @@ This project demonstrates the concept of **mutation testing**, a software testin
 4. **Expand Test Scenarios for Arithmetic Logic**: Test additional combinations of operations and sequences in polynomial addition, subtraction, and multiplication.
 
 5. **Improve Input-Output Coverage**: Enhance testing to explore all input combinations, particularly ones near boundary values or undefined inputs.
+
+## Author
+Created by **Chastidy Joanem**  
+GitHub: [@chazdj](https://github.com/chazdj)
